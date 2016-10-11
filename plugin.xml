@@ -24,8 +24,8 @@ xmlns:android="http://schemas.android.com/apk/res/android"
            id="cordova-plugin-geolocation"
       version="2.4.1-dev">
 
-    <name>Geolocation</name>
-    <description>Cordova Geolocation Plugin</description>
+    <name>Modified Geolocation</name>
+    <description>Cordova Geolocation Plugin which is removed GPS setting</description>
     <license>Apache 2.0</license>
     <keywords>cordova,geolocation</keywords>
     <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git</repo>
